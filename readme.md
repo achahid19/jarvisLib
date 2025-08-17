@@ -37,6 +37,7 @@ This library was created to gain a deep understanding of how modern web framewor
     * [4. Render and Commit Phases](#4-render-and-commit-phases)
     * [5. Reconciliation: Efficiently Updating the UI](#5-reconciliation-efficiently-updating-the-ui)
     * [6. Function Components and Hooks](#6-function-components-and-hooks)
+* [Resources](#Resources)
 * [Author](#author)
 * [License](#license)
 
@@ -298,6 +299,10 @@ To add state to function components, we implement `useState`.
 ```
 
 This completes the core logic of our React-like library, providing a solid foundation for building simple, interactive applications.
+
+## Resources
+A super useful set of resources:
+> https://github.com/codecrafters-io/build-your-own-x#build-your-own-front-end-framework--library
 
 ## Author
 **© Anas Chahid ksabi **@KsDev**** - [achahid19](https://github.com/achahid19)
